@@ -1,9 +1,9 @@
 ---
 layout: default
 title: 極ゼレニア/RecollectionEX
-nav_order: 3
+nav_order: 1
 permalink: /RecollectionEX
-parent: 7版高難
+parent: 7版
 ---
 
 # ローズ・カタルシス
