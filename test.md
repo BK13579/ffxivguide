@@ -32,5 +32,5 @@ parent: Home
     </td>
   </tr>
 </table>
-<img src= "https://github.com/BK13579/ffxivguide/blob/main/Images/FINAL_FANTASY_XIV_320_.gif" >
+<img src= "https://github.com/BK13579/ffxivguide/blob/main/Images/FINAL_FANTASY_XIV_320_.gif" loading="lazy">
 ---
