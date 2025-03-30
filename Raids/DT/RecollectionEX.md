@@ -14,12 +14,12 @@ parent: 7版高難
   <tr>
     <td width="50%">
       <p style="text-align:center">
-       <b>1.</b>坦補月環踩塔  
+       坦補月環踩塔  
       </p>  
     </td>
     <td>
      <p style="text-align:center">
-      <b>2.</b>DPS月環踩塔  
+      DPS月環踩塔  
      </p>
     </td>
   </tr>
