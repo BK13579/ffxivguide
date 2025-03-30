@@ -1,4 +1,4 @@
-title: FFXIV繁中攻略
+title: "FFXIV繁中攻略"
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
@@ -8,6 +8,10 @@ aux_links:
   Github頁面: https://github.com/BK13579/ffxivguide
 
 color_scheme: dark
+
+aux_links_new_tab: true
+
+
 
 collections:
   Guides:
