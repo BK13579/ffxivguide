@@ -32,11 +32,15 @@ parent: Home
     </td>
   </tr>
 </table>
+
 <img src= "https://github.com/BK13579/ffxivguide/blob/main/Images/FINAL_FANTASY_XIV_320_.gif" alt="WoLscreaming" style="width:320px;height:320px;" loading="lazy">
+
 <embed
   type="image/gif"
   src="https://github.com/BK13579/ffxivguide/blob/main/Images/FINAL_FANTASY_XIV_320_.gif"
   width="320"
   height="320" />
+  
+<iframe width="320" height="320" src="https://github.com/BK13579/ffxivguide/blob/main/Images/FINAL_FANTASY_XIV_320_.gif" frameborder="0" scrolling="no" noresize frameborder="0" onload="document.getElementById('loadImg').style.display='none';"></iframe>
 
 ---
