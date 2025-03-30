@@ -8,3 +8,10 @@ aux_links:
   Github頁面: https://github.com/BK13579/ffxivguide
 
 color_scheme: dark
+
+just_the_docs:
+  collections:
+    Guides:
+      name: 遊戲教學
+    Raids:
+      name: 高難攻略
