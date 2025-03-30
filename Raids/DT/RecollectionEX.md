@@ -12,10 +12,10 @@ parent: 7版高難
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b>坦補月環踩塔</p>  
+      <p style="text-align:center"><b>1.</b>坦補月環踩塔</p>  
     </td>
     <td>
-     <p><b>2.</b>DPS月環踩塔</p>
+     <p style="text-align:center"><b>2.</b>DPS月環踩塔</p>
     </td>
   </tr>
     <tr>
