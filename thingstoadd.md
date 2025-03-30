@@ -7,7 +7,7 @@ permalink: /thingstoadd
 
 # 要加的東西
 
-減傷
+減傷\\
 GCD雙插
 爆發迴圈
 見面禮儀
