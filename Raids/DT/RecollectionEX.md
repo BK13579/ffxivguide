@@ -7,19 +7,19 @@ parent: 7版高難
 ---
 
 # ローズ・カタルシス
-魔法全體範圍攻擊，記得減傷
+魔法全體範圍攻擊，記得減傷  
 
 # ショック+キングダム・ホーリー
 <table>
   <tr>
     <td width="50%">
       <p style="text-align:center">
-       <b>1.</b>坦補月環踩塔
+       <b>1.</b>坦補月環踩塔  
       </p>  
     </td>
     <td>
      <p style="text-align:center">
-      <b>2.</b>DPS月環踩塔
+      <b>2.</b>DPS月環踩塔  
      </p>
     </td>
   </tr>
