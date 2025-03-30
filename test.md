@@ -10,7 +10,6 @@ permalink: /test
 測試  
 **測試**
 
-<img src= https://raw.githubusercontent.com/BK13579/ffxivguide/refs/heads/main/Images/DamageDown.jpg>
-<img src= https://github.com/BK13579/ffxivguide/blob/main/Images/DamageDown.jpg?raw=true >
+<img src= "https://github.com/BK13579/ffxivguide/blob/main/Images/DamageDown.jpg?raw=true" >
 
 ---
