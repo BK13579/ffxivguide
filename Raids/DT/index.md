@@ -1,1 +1,6 @@
-
+---
+layout: default
+title: 7版高難
+nav_order: 3
+permalink: /Dawntrial
+---
