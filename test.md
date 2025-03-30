@@ -3,6 +3,7 @@ layout: default
 title: Test page
 nav_order: 2
 permalink: /test
+parent: test
 ---
 
 # 測試頁面
