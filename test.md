@@ -11,5 +11,6 @@ permalink: /test
 **測試**
 
 <img src= https://github.com/BK13579/ffxivguide/blob/main/Images/DamageDown.jpg>
+<img src= https://github.com/BK13579/ffxivguide/blob/main/Images/DamageDown.jpg?raw=true >
 
 ---
