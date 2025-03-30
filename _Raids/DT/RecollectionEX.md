@@ -2,7 +2,7 @@
 layout: default
 title: 極ゼレニア/RecollectionEX
 nav_order: 1
-permalink: /RecollectionEX
+permalink: /DT/RecollectionEX
 parent: 7版
 ---
 
