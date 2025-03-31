@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 戰鬥教學
+title: 其他教學
 nav_order: 2
 permalink: /otherguide
 ---
