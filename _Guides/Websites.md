@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 好用的資源
-nav_order: 5
+nav_order: 3
 permalink: /websites
-parent: 戰鬥教學
 ---
