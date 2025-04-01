@@ -45,10 +45,20 @@ THD三大類可以再細分為五種職能，分別是坦克、補師、近戰�
 
 # <img src = "https://ffxiv.gamerescape.com/w/images/3/3d/Physical_Ranged_DPS_Icon_1.png"> 遠程輸出(遠D)  
 
+## <img src = "https://ffxiv.gamerescape.com/w/images/c/cf/Bard_Icon_10.png"> 吟遊詩人  
+## <img src = "https://ffxiv.gamerescape.com/w/images/2/23/Machinist_Icon_10.png"> 機工士  
+## <img src = "https://ffxiv.gamerescape.com/w/images/1/15/Dancer_Icon_10.png"> 舞者  
 
 ---
 
 # <img src = "https://ffxiv.gamerescape.com/w/images/6/65/Magic_Ranged_DPS_Icon_1.png"> 法系輸出(法D)  
+
+## <img src = "https://ffxiv.gamerescape.com/w/images/1/1f/Black_Mage_Icon_10.png"> 黑魔道士  
+## <img src = "https://ffxiv.gamerescape.com/w/images/4/4e/Summoner_Icon_10.png"> 召喚士  
+## <img src = "https://ffxiv.gamerescape.com/w/images/e/e0/Red_Mage_Icon_10.png"> 赤魔道士  
+## <img src = "https://ffxiv.gamerescape.com/w/images/1/13/Pictomancer_Icon_10.png"> 繪靈法師  
+## <img src = "https://ffxiv.gamerescape.com/w/images/0/08/Blue_Mage_Icon_10.png"> 青魔道士  
+
 
 
 ---
