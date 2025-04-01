@@ -6,4 +6,4 @@ permalink: /combatguide/combatbasic
 parent: 戰鬥教學
 ---
 
-# 戰鬥內容簡介
+# 戰鬥基礎教學
