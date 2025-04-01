@@ -29,15 +29,15 @@ permalink: /websites
 製造職業必備工具，可以用來計算所需的材料以及步驟，DC群內也有在討論製造相關的內容。  
 
 ### FFXIVCollect
-[網頁連結](https://ffxivcollect.com/)
+[網頁連結](https://ffxivcollect.com/)  
 蒐集要素相關的網站，可以用來看還有哪些東西沒拿到。  
 
 ### 魚糕
-[網頁連結](https://fish.ffmomola.com/#/)
+[網頁連結](https://fish.ffmomola.com/#/)  
 釣魚必備工具，可以設定釣魚時間的提醒。  
 
 ### Housingsnap
-[網頁連結](https://housingsnap.com/)
+[網頁連結](https://housingsnap.com/)  
 房屋裝潢分享網站，對裝修有興趣的可以在上面找靈感。  
 
 ---
