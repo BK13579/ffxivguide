@@ -13,10 +13,31 @@ THD三大類可以再細分為五種職能，分別是坦克、補師、近戰�
 
 ## <img src = "https://ffxiv.gamerescape.com/w/images/6/6b/Tank_Icon_1.png"> 坦克(T)  
 
-## <img src = "https://ffxiv.gamerescape.com/w/images/d/d6/Healer_Icon_1.png"> 補師(H)  
+### <img src = "https://ffxiv.gamerescape.com/w/images/7/74/Paladin_Icon_10.png"> 騎士  
+### <img src = "https://ffxiv.gamerescape.com/w/images/6/68/Warrior_Icon_10.png"> 戰士  
+### <img src = "https://ffxiv.gamerescape.com/w/images/e/e3/Dark_Knight_Icon_10.png"> 暗黑騎士  
+### <img src = "https://ffxiv.gamerescape.com/w/images/8/87/Gunbreaker_Icon_10.png"> 絕槍戰士  
+
+
+---
+
+## <img src = "https://ffxiv.gamerescape.com/w/images/d/d6/Healer_Icon_1.png"> 補師(H) 
+
+
+
+---
 
 ## <img src = "https://ffxiv.gamerescape.com/w/images/2/29/Melee_DPS_Icon_1.png"> 近戰輸出(近D)  
 
+
+---
+
 ## <img src = "https://ffxiv.gamerescape.com/w/images/3/3d/Physical_Ranged_DPS_Icon_1.png"> 遠程輸出(遠D)  
 
+
+---
+
 ## <img src = "https://ffxiv.gamerescape.com/w/images/6/65/Magic_Ranged_DPS_Icon_1.png"> 法系輸出(法D)  
+
+
+---
