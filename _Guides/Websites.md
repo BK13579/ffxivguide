@@ -24,6 +24,10 @@ permalink: /websites
 
 # 其他網站
 
+### FF14簡中wiki
+[網頁連結](https://ff14.huijiwiki.com/)  
+FF14簡中的維基，基本上大多數的內容裡面都有  
+
 ### Teamcraft
 [網頁連結](https://ffxivteamcraft.com/)  
 製造職業必備工具，可以用來計算所需的材料以及步驟，DC群內也有在討論製造相關的內容。  
