@@ -5,3 +5,5 @@ nav_order: 3
 permalink: /combatguide/combatbasic
 parent: 戰鬥教學
 ---
+
+# 戰鬥內容簡介
