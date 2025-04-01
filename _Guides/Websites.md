@@ -5,7 +5,7 @@ nav_order: 3
 permalink: /websites
 ---
 
-#戰鬥相關
+# 戰鬥相關
 
 ## The Balance
 https://www.thebalanceffxiv.com/  
