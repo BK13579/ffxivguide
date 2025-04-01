@@ -9,7 +9,7 @@ permalink: /websites
 
 ### The Balance
 [網頁連結](https://www.thebalanceffxiv.com/)  
-各職業的迴圈教學以及當版本BiS(最好的裝備)在這裡面都有整理，如果網站裡面沒有可以加入他們的DC群組裡面會有更多的內容。  
+各職業的迴圈教學以及當版本BiS(最好的裝備)在這裡面都有整理，可以加入他們的DC群組裡面會有更詳細的內容。  
 
 ### FFLogs
 [網頁連結](https://www.fflogs.com/)  
