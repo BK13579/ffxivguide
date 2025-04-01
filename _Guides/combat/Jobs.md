@@ -25,12 +25,21 @@ THD三大類可以再細分為五種職能，分別是坦克、補師、近戰�
 
 # <img src = "https://ffxiv.gamerescape.com/w/images/d/d6/Healer_Icon_1.png"> 補師(H) 
 
-
+## <img src = "https://ffxiv.gamerescape.com/w/images/6/6c/White_Mage_Icon_10.png"> 白魔道士  
+## <img src = "https://ffxiv.gamerescape.com/w/images/9/90/Scholar_Icon_10.png"> 學者  
+## <img src = "https://ffxiv.gamerescape.com/w/images/4/46/Astrologian_Icon_10.png"> 占星術士  
+## <img src = "https://ffxiv.gamerescape.com/w/images/3/3d/Sage_Icon_10.png"> 賢者    
 
 ---
 
 # <img src = "https://ffxiv.gamerescape.com/w/images/2/29/Melee_DPS_Icon_1.png"> 近戰輸出(近D)  
 
+## <img src = "https://ffxiv.gamerescape.com/w/images/8/80/Monk_Icon_10.png"> 武僧  
+## <img src = "https://ffxiv.gamerescape.com/w/images/c/ca/Dragoon_Icon_10.png"> 龍騎士  
+## <img src = "https://ffxiv.gamerescape.com/w/images/c/c5/Ninja_Icon_10.png"> 忍者  
+## <img src = "https://ffxiv.gamerescape.com/w/images/6/61/Samurai_Icon_10.png"> 武士  
+## <img src = "https://ffxiv.gamerescape.com/w/images/e/ec/Reaper_Icon_10.png"> 奪魂者  
+## <img src = "https://ffxiv.gamerescape.com/w/images/2/22/Viper_Icon_10.png"> 毒蛇劍士  
 
 ---
 
