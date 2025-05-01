@@ -65,6 +65,7 @@ THD三大類可以再細分為五種職能，分別是坦克、補師、近戰�
 PVP專用
 ## <img src = "https://ffxiv.gamerescape.com/w/images/1/15/Dancer_Icon_10.png"> 舞者  
 選好舞伴，能放大自身輸出強大職業(武士)的輸出
+
 ---
 
 # <img src = "https://ffxiv.gamerescape.com/w/images/6/65/Magic_Ranged_DPS_Icon_1.png"> 法系輸出(法D)  
