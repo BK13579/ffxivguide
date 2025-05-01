@@ -16,8 +16,11 @@ THD三大類可以再細分為五種職能，分別是坦克、補師、近戰�
 # <img src = "https://ffxiv.gamerescape.com/w/images/6/6b/Tank_Icon_1.png"> 坦克(T)  
 
 ## <img src = "https://ffxiv.gamerescape.com/w/images/7/74/Paladin_Icon_10.png"> 騎士  
+
 ## <img src = "https://ffxiv.gamerescape.com/w/images/6/68/Warrior_Icon_10.png"> 戰士  
+很會回血，56等學到的技能讓他能在四人本快樂，但是減傷較少
 ## <img src = "https://ffxiv.gamerescape.com/w/images/e/e3/Dark_Knight_Icon_10.png"> 暗黑騎士  
+70後有
 ## <img src = "https://ffxiv.gamerescape.com/w/images/8/87/Gunbreaker_Icon_10.png"> 絕槍戰士  
 垃圾職業
 
