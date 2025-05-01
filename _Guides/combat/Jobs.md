@@ -19,6 +19,7 @@ THD三大類可以再細分為五種職能，分別是坦克、補師、近戰�
 ## <img src = "https://ffxiv.gamerescape.com/w/images/6/68/Warrior_Icon_10.png"> 戰士  
 ## <img src = "https://ffxiv.gamerescape.com/w/images/e/e3/Dark_Knight_Icon_10.png"> 暗黑騎士  
 ## <img src = "https://ffxiv.gamerescape.com/w/images/8/87/Gunbreaker_Icon_10.png"> 絕槍戰士  
+垃圾職業
 
 
 ---
