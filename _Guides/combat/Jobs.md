@@ -41,15 +41,15 @@ THD三大類可以再細分為五種職能，分別是坦克、補師、近戰�
 ---
 
 # <img src = "https://ffxiv.gamerescape.com/w/images/2/29/Melee_DPS_Icon_1.png"> 近戰輸出(近D)  
-打好你的輸出，別為了貪吃太多傷害，牽制記得放
+遊戲內傷害最高的DPS分類，需要打身位才能最大化傷害，別為了貪吃太多傷害，牽制記得放
 ## <img src = "https://ffxiv.gamerescape.com/w/images/8/80/Monk_Icon_10.png"> 武僧  
-沒有可以隨時發動的遠程補傷害手段
+基礎戰技可以獲得功力的資源，用於強化基礎戰技的傷害，基礎戰技搭配踏鳴可以獲得分別三種顏色的チャクラ，通過三個一樣顏色的チャクラ發動的必殺技可以獲得陰的鬥氣，三個不同顏色的チャクラ發動的必殺技可以獲得陽的鬥氣，當你有陰陽兩種鬥氣時，第三次使用踏鳴湊齊任三種チャクラ都能發動最強的必殺技並重置陰陽鬥氣，需要注意的是如果チャクラ是兩個一樣加上一個不一樣的時後，會發動傷害較低的必殺技並獲得一個還未獲得的陰陽鬥氣，還有一種基礎資源是鬥氣，透過基礎戰技爆擊或是使用桃園結義時隊友爆擊獲得層數，5層可使用一次傷害能力技，由於武僧沒有常規的遠程輸出手段，在遠離BOSS或是BOSS即將離場時使用六合星導脚並使用恢復鬥氣的技能，可以最大程度止損傷害
 ## <img src = "https://ffxiv.gamerescape.com/w/images/c/ca/Dragoon_Icon_10.png"> 龍騎士  
 小心後跳跳出場外
 ## <img src = "https://ffxiv.gamerescape.com/w/images/c/c5/Ninja_Icon_10.png"> 忍者  
 不要變兔子
 ## <img src = "https://ffxiv.gamerescape.com/w/images/6/61/Samurai_Icon_10.png"> 武士  
-保持敵人身上的彼岸花(dot)DB
+通過基礎戰技獲得劍氣和閃，劍氣用於突進、後撤以及穿插在戰技間的傷害能力技，閃是在使用月光、花車、雪風後獲得的職業資源，透過搭配不同數量的閃，可以發動不同的拔刀術，一個閃是單體DOT戰技、兩個閃是AOE戰技、三個閃是單體高傷戰技，發動拔刀術後可以獲得一層劍壓，三層劍壓可以發動一次高傷害能力技，武士也是近D中少數需要讀條的職業
 ## <img src = "https://ffxiv.gamerescape.com/w/images/e/ec/Reaper_Icon_10.png"> 奪魂者  
 累積資源型輸出，記得上印記
 ## <img src = "https://ffxiv.gamerescape.com/w/images/2/22/Viper_Icon_10.png"> 毒蛇劍士  
