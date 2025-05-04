@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /DT/RecollectionEX
 parent: 7版
 ---
-本文參考game8
+本文參考game8 https://game8.jp/ff14/678687
 # ローズ・カタルシス
 魔法全體範圍攻擊，記得減傷  
 
@@ -132,9 +132,41 @@ boss讀條完後會使地板某些區域放下魔法陣(變紅)，這些區域�
 
 
 # 魔法陣展開・三式
+<table>
+  <tr>
+    <p style="text-align:center">
+       DPS點名放地板場合
+      </p>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p style="text-align:center">
+       以內圈兩個紅地板夾的小塊地板為北(D3所在位置)
+      </p>  
+    </td>
+    <td>
+     <p style="text-align:center">
+      DPS月環踩塔  
+     </p>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%">
+     <img src="https://img.game8.jp/11194716/1a16031149b3574daf11d370edadf308.png/original">
+    </td>
+    <td>
+      <img src="https://img.game8.jp/11195276/1b9e03a070150f4ea96b683fa9083b74.png/original">
+    </td>
+  </tr>
+</table>
 這邊boss會點名坦補或DPS組，被點名的人頭上會有標記(花)，被標記的人會在一段時間後在腳下的格子放下魔法陣並賦予易傷(踩塔會暴斃)
-沒被點名的要去踩塔(會在放魔法陣後一段時間判定)
+沒被點名的要去踩塔(會在放魔法陣一段時間後判定)，在踩在相連的魔法陣也算踩到塔
 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
