@@ -134,14 +134,9 @@ boss讀條完後會使地板某些區域放下魔法陣(變紅)，這些區域�
 # 魔法陣展開・三式
 <table>
   <tr>
-    <p style="text-align:center">
-       DPS點名放地板場合
-      </p>
-  </tr>
-  <tr>
     <td width="50%">
       <p style="text-align:center">
-       以內圈兩個紅地板夾的小塊地板為北(D3所在位置)
+       坦補月環踩塔  
       </p>  
     </td>
     <td>
@@ -152,7 +147,7 @@ boss讀條完後會使地板某些區域放下魔法陣(變紅)，這些區域�
   </tr>
     <tr>
     <td width="50%">
-     <img src="https://img.game8.jp/11194716/1a16031149b3574daf11d370edadf308.png/original">
+     <img src="https://img.game8.jp/11195275/ff30f7c196293b5be0585bec7751a786.png/original">
     </td>
     <td>
       <img src="https://img.game8.jp/11195276/1b9e03a070150f4ea96b683fa9083b74.png/original">
@@ -163,10 +158,6 @@ boss讀條完後會使地板某些區域放下魔法陣(變紅)，這些區域�
 沒被點名的要去踩塔(會在放魔法陣一段時間後判定)，在踩在相連的魔法陣也算踩到塔
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
 
